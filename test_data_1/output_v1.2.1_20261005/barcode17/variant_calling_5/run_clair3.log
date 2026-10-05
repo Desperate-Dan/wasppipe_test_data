@@ -1,0 +1,44 @@
+
+[INFO] Check environment variables
+[INFO] --include_all_ctgs enabled
+[INFO] Create folder /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/log
+[INFO] Create folder /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/pileup_output
+[INFO] Create folder /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/merge_output
+[INFO] Create folder /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/phase_output
+[INFO] Create folder /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/gvcf_tmp_output
+[INFO] Create folder /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/full_alignment_output
+[INFO] Create folder /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/phase_output/phase_vcf
+[INFO] Create folder /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/phase_output/phase_bam
+[INFO] Create folder /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/full_alignment_output/candidate_bed
+[INFO] Call variant in contigs: barcode17_ref_NC_002645.1
+[INFO] Chunk number for each contig: 3
+[INFO] 1/7 Call variants using pileup model
+Calling variants ...
+Total processed positions in barcode17_ref_NC_002645.1 (chunk 1/3) : 0
+Total time elapsed: 0.18 s
+[INFO] No vcf output for file /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/pileup_output/pileup_barcode17_ref_NC_002645.1_1.vcf, remove empty file
+Calling variants ...
+Total processed positions in barcode17_ref_NC_002645.1 (chunk 3/3) : 0
+Total time elapsed: 0.16 s
+[INFO] No vcf output for file /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/pileup_output/pileup_barcode17_ref_NC_002645.1_3.vcf, remove empty file
+Calling variants ...
+Total processed positions in barcode17_ref_NC_002645.1 (chunk 2/3) : 22
+Total time elapsed: 3.42 s
+[INFO] 2/7 No phasing for full alignment calling
+
+[INFO] 5/7 Select candidates for full-alignment calling
+[INFO] Set variants quality cutoff 7.0
+[INFO] Set reference calls quality cutoff 5.0
+[INFO] Low quality reference calls to be processed in barcode17_ref_NC_002645.1: 0
+[INFO] Low quality variants to be processed in barcode17_ref_NC_002645.1: 4
+
+[INFO] 6/7 Call low-quality variants using full-alignment model
+Calling variants ...
+Total processed positions in barcode17_ref_NC_002645.1 (chunk 1/1) : 4
+Total time elapsed: 0.40 s
+
+[INFO] 7/7 Merge pileup VCF and full-alignment VCF
+[INFO] Pileup variants processed in barcode17_ref_NC_002645.1: 4
+[INFO] Full-alignment variants processed in barcode17_ref_NC_002645.1: 1
+
+[INFO] Finish calling, output file: /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/merge_output.vcf.gz

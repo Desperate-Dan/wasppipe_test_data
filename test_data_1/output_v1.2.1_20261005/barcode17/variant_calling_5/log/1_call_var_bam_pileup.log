@@ -1,0 +1,11 @@
+Calling variants ...
+Total processed positions in barcode17_ref_NC_002645.1 (chunk 1/3) : 0
+Total time elapsed: 0.18 s
+[INFO] No vcf output for file /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/pileup_output/pileup_barcode17_ref_NC_002645.1_1.vcf, remove empty file
+Calling variants ...
+Total processed positions in barcode17_ref_NC_002645.1 (chunk 3/3) : 0
+Total time elapsed: 0.16 s
+[INFO] No vcf output for file /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/7a/e7e8b7e1d6493a0b4471ed7ff7fd0b/tmp/pileup_output/pileup_barcode17_ref_NC_002645.1_3.vcf, remove empty file
+Calling variants ...
+Total processed positions in barcode17_ref_NC_002645.1 (chunk 2/3) : 22
+Total time elapsed: 3.42 s

@@ -1,0 +1,8 @@
+Sample_ID,unfiltered_read_count,filtered_read_count,reference,reads_mapped,reads_mapped_repeat,mapped_read_prop_of_filtered_reads,closest_species_in_reference_set,ncbi_link_to_reference,consensus_generated,covered_bases,genome_covered_propotion,estimated_similarity,coverage_mean,coverage_median
+barcode17,71788,70214,AF086833.2,501,20857,0.3,Ebola virus - Mayinga,https://www.ncbi.nlm.nih.gov/nuccore/AF086833.2,Yes,406.0,0.0214,0.9754,4320.59,4344.0
+barcode17,71788,70214,LN877955.1,20190,20890,0.3,Zaire ebolavirus genome assembly 15070,https://www.ncbi.nlm.nih.gov/nuccore/LN877955.1,Yes,406.0,0.0215,0.9877,4327.47,4369.0
+barcode17,71788,70214,NC_002645.1,43807,43817,0.62,Human coronavirus 229E,https://www.ncbi.nlm.nih.gov/nuccore/NC_002645.1,Yes,830.0,0.0304,0.9976,4149.11,3649.0
+barcode17,71788,70214,NC_005831.2,1,1,0.0,Human Coronavirus NL63,https://www.ncbi.nlm.nih.gov/nuccore/NC_005831.2,No,,,,,
+barcode17,71788,70214,NC_012532.1,5622,5671,0.08,Zika virus,https://www.ncbi.nlm.nih.gov/nuccore/NC_012532.1,Yes,261.0,0.0242,0.9962,943.28,12.0
+barcode61,14035,13107,J02363.1,1388,1389,0.11,Sindbis virus (hrsp and wild-type strains) complete genome,https://www.ncbi.nlm.nih.gov/nuccore/J02363.1,Yes,332.0,0.0284,0.997,958.61,1117.5
+barcode61,14035,13107,NC_038709.1,9746,9745,0.74,Hazara virus isolate JC280 segment L,https://www.ncbi.nlm.nih.gov/nuccore/NC_038709.1,Yes,405.0,0.0338,0.9926,5736.33,6746.0

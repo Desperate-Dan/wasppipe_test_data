@@ -1,0 +1,6 @@
+[93m[WARNING] Cannot find any low-quality 0/0 reference calls in pileup output using reference quality cut-off proportion: 0.1, total reference calls: 7[0m
+[93m[WARNING] Set low reference quality score cut-off to 0.0[0m
+[INFO] Set variants quality cutoff 16.0
+[INFO] Set reference calls quality cutoff 0.0
+[INFO] Low quality reference calls to be processed in barcode61_ref_NC_038709.1: 0
+[INFO] Low quality variants to be processed in barcode61_ref_NC_038709.1: 2

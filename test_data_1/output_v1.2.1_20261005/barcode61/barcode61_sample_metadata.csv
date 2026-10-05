@@ -1,0 +1,3 @@
+Sample_ID,unfiltered_read_count,filtered_read_count,reference,reads_mapped,reads_mapped_repeat,mapped_read_prop_of_filtered_reads,closest_species_in_reference_set,ncbi_link_to_reference,consensus_generated,covered_bases,genome_covered_propotion,estimated_similarity,coverage_mean,coverage_median
+barcode61,14035,13107,J02363.1,1388,1389,0.11,Sindbis virus (hrsp and wild-type strains) complete genome,https://www.ncbi.nlm.nih.gov/nuccore/J02363.1,Yes,332,0.0284,0.997,958.61,1117.5
+barcode61,14035,13107,NC_038709.1,9746,9745,0.74,Hazara virus isolate JC280 segment L,https://www.ncbi.nlm.nih.gov/nuccore/NC_038709.1,Yes,405,0.0338,0.9926,5736.33,6746.0

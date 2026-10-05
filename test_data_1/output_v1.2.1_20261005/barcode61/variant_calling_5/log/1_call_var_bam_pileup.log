@@ -1,0 +1,7 @@
+Calling variants ...
+Total processed positions in barcode61_ref_NC_038709.1 (chunk 1/2) : 0
+Total time elapsed: 0.18 s
+[INFO] No vcf output for file /mnt/c/Users/dmaloney/epi2melabs/instances/WaSPPipe_01M460PQKYGCRSXZB8FGDQEPZ1/work/5f/3b3b2591e93db87c6557cbc5c8f6b5/tmp/pileup_output/pileup_barcode61_ref_NC_038709.1_1.vcf, remove empty file
+Calling variants ...
+Total processed positions in barcode61_ref_NC_038709.1 (chunk 2/2) : 12
+Total time elapsed: 0.35 s
